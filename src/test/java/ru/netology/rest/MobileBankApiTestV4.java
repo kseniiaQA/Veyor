@@ -1,4 +1,4 @@
-package ru.netology.rest;
+/*package ru.netology.rest;
 
 import org.junit.jupiter.api.Test;
 
@@ -21,4 +21,4 @@ class MobileBankApiTestV4 {
                 .body(matchesJsonSchemaInClasspath("accounts.schema.json"))
         ;
     }
-}
+}*/
