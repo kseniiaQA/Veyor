@@ -30,6 +30,6 @@
         "type": "string",
         "pattern": "USD|RUB"
       }
-    } 
+    }
   }
 }
